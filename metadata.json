@@ -1,0 +1,6 @@
+{
+  "name": "AuraDock - Menu Lateral Inteligente",
+  "description": "Aplicativo de dock menu lateral com silhuetas orgânicas dinâmicas, flyouts interativos, personalização completa e gerador de código.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
